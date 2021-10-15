@@ -1,0 +1,60 @@
+body{
+  background-color:bisque;
+}
+
+header{
+  background-color:saddlebrown;
+}
+
+footer{
+  background-color: saddlebrown;
+  padding: 5px 5px 5px 5px;
+}
+
+header h1{
+  margin: 0;
+  color: whitesmoke;
+  font-size: 60px;
+  text-align: center;
+  padding: 35px 0 30px 30px;
+  letter-spacing: 3px;
+  
+}
+
+h2{
+  font-size: 20px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+footer h3{
+  margin: 0;
+  color: whitesmoke;
+  font-size: 60px;
+  text-align: center;
+  padding: 35px 0 30px 30px;
+  letter-spacing: 3px;
+}
+
+p{
+  font-size: 16px;
+  text-align: left;
+}
+
+h1, h2,h3, p {
+  font-family: Arial, Helvetica, sans-serif
+}
+
+hr{
+height:2px;
+border-width:0;
+color:saddlebrown;
+background-color:saddlebrown;
+}
+/*This was used to center the image*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
