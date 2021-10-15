@@ -58,3 +58,17 @@ background-color:saddlebrown;
   margin-right: auto;
   width: 50%;
 }
+
+/* pseudo-classes for links*/
+a:link{
+  color: blue;
+}
+a:visited{
+  color: red;
+}
+a:hover{
+  color: green;
+}
+a:active {
+  color: purple;
+}
